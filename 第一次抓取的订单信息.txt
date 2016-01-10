@@ -1,0 +1,1967 @@
+
+ <input name="_tb_token_" type="hidden" value="rcOXpQvWMhv8f1">
+ <div class="item-list-bd" data-spm="11">
+ <table id="J_ListTable" data-url="//trade.taobao.com/trade/json/memo_info.htm?user_type=seller" data-stage-url="//trade.taobao.com/trade/modify_price.htm">
+ <colgroup>
+ <col class="item-list-col0">
+ <col class="item-list-col1"><!-- 宝贝 -->
+ <col class="item-list-col2"><!-- 单价(元) -->
+ <col class="item-list-col3"><!-- 数量 -->
+ <col class="item-list-col4"><!-- 纠纷 -->
+ <col class="item-list-col6"><!-- 买家 -->
+ <col class="item-list-col7"><!-- 交易状态 -->
+ <col class="item-list-col8"><!-- 实收款(元) -->
+ <col class="item-list-col9"><!-- 评价 -->
+ </colgroup>
+
+ <thead>
+ <tr>
+ <th> </th>
+ <th class="item">宝贝</th>
+ <th class="price">单价(元)</th>
+ <th class="num">数量</th>
+ <th class="trouble">售后</th>
+ <th class="contact">买家</th>
+ <th class="trade-status">交易状态</th>
+ <th class="order-price">实收款(元)</th>
+ <th class="remark">评价</th>
+ </tr>
+ </thead>
+
+ 
+ <tbody class="act">
+ <tr>
+ <td colspan="9">
+ <div class="operations"> 
+ <input type="checkbox" class="all-selector"><label>全选</label>
+   <a id="plfh1" href="javascript:void(0)" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.3">批量发货</a>
+   <a id="plbz1" href="javascript:void(0)" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.5">批量标记</a>
+   <a href="//trade.taobao.com/trade/free_post_fee.htm" class="operation-btn J_BatchFreeShipping J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.4">批量免运费</a>
+   <span style="display:inline">
+ <label class="show-hidden-orders" for="J_ShowHiddenOrder">
+ <input type="checkbox" id="J_ShowHiddenOrder" onclick="switch_closeorder(this)">
+ 不显示已关闭的订单
+ </label>
+ </span>
+   <span style="display:none">
+ <label class="show-hidden-orders" for="J_ShowHiddenOrder">
+ <input type="checkbox" id="J_ShowHiddenOrder" onclick="switch_rx_order(this)">
+ 只显示处方药订单
+ </label>
+ </span>
+ 
+
+ <input type="hidden" id="J_uppage_durex" data-durex="{&quot;durexUrl&quot;: &quot;//aq.taobao.com/durex/validate&quot;, &quot;authUrl&quot;: &quot;/trade/security/auth_user_info.htm&quot;}" data-durex-urlparam="{&quot;redirecturl&quot;: &quot;//trade.taobao.com/trade/itemlist/mid/durex.htm&quot;}">
+
+<ul class="page-nav inline-block page-nav-simply">
+<li class="prev-page">
+<a href="javascript:void(0)" class="disabled">上一页</a>
+</li>
+          <li class="next-page">
+   <a href="javascript:void(0)" class="disabled">下一页</a>
+   </li>
+ 
+
+</ul>
+  </div>
+ </td>
+ </tr>
+ </tbody>
+
+     
+   
+ <!--begin 订单块list begin -->
+       
+             
+   <tbody id="order1438244518191411" class="order success-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1438244518191411" name="biz_order_id" value="1438244518191411">
+<input type="hidden" id="payOrderId_1438244518191411" name="payOrderId_1438244518191411" value="1438244518191411">
+<input type="hidden" id="tradeStatus_1438244518191411" name="tradeStatus_1438244518191411" value="TRADE_FINISHED">
+<input type="hidden" id="inRefundStatus_1438244518191411" name="inRefundStatus_1438244518191411" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1438244518191411">
+   订单编号：1438244518191411
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-12-01 04:29</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1438244518191411" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1438244518191411&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="387561114">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1438244518201411" class="order-item
+     ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1438244518201411">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i4/1980329921/TB22pz6fXXXXXaTXXXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1438244518201411" title="查看宝贝详情" target="_blank">
+一次性生鲜食品托盘长方形加长一次性鱼类托盘塑料生鲜托盘3013
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 白色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.52">0.52</td>
+ 
+   <td class="num" title="100">
+   100
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="2" sumrows="2">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=蛋美丽&amp;sign=e3b8bc91ddc005564e0e6c5e96cbb743" target="_blank">蛋美丽</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="蛋美丽" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1438244518191411&amp;out_order_id=b_175955554029&amp;user_type=0">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="蛋美丽" data-display="inline" data-item="$bizOrder.itemID:1438244518191411"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=蛋美丽" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="蛋美丽" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;蛋美丽&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="2" sumrows="2">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1438244518191411" target="_blank">
+       
+  
+<strong class="J_TradeStatus status success">
+交易成功</strong>
+  
+  
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1438244518191411" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="2" sumrows="2">
+     <strong class="J_OrderPrice">109.00</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">10.00</span>) </div>
+ 
+
+ 
+<div>
+<a title="查看物流" href="//wuliu.taobao.com/user/order_detail_new.htm?trade_id=1438244518191411&amp;seller_id=1980329921" class="view-logistics" target="_blank">查看物流</a>
+</div>
+
+
+ <a title="该订单来自您的手机淘宝店铺" href="http://www.taobao.com/go/act/integrated/maijia-index.php?sprefer=symj27" target="_blank">
+<img src="//img.alicdn.com/tps/i1/T1xRBqXdNAXXXXXXXX-46-16.png">
+</a>
+
+    </td>
+     <td class="remark" rowspan="2" sumrows="2">
+         <div class="remark-status">
+   <a href="//rate.taobao.com/RateDetailSeller.htm?parentTradeId=1438244518191411" target="_blank">
+ 双方已评
+ </a>
+   </div>
+ 
+   
+ 
+   </td>
+   </tr>
+
+         <tr id="item1438244518211411" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1438244518211411">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i3/1980329921/TB2a8LQfXXXXXcJXXXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1438244518211411" title="查看宝贝详情" target="_blank">
+2513超大一次性食品托盘超市鲜肉托打包碟长方形塑料水果蔬菜托盘
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 白色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.47">0.47</td>
+ 
+   <td class="num" title="100">
+   100
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+     </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+         
+             
+   <tbody id="order1403269941474843" class="order closed-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1403269941474843" name="biz_order_id" value="1403269941474843">
+<input type="hidden" id="payOrderId_1403269941474843" name="payOrderId_1403269941474843" value="1403269941474843">
+<input type="hidden" id="tradeStatus_1403269941474843" name="tradeStatus_1403269941474843" value="CREATE_CLOSED_OF_TAOBAO">
+<input type="hidden" id="inRefundStatus_1403269941474843" name="inRefundStatus_1403269941474843" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1403269941474843">
+   订单编号：1403269941474843
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-11-15 12:48</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1403269941474843" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1403269941474843&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="649244348">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1403269941484843" class="order-item
+     ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1403269941484843">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i2/1980329921/TB2OGHQfXXXXXXOXpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1403269941484843" title="查看宝贝详情" target="_blank">
+1410正品一次性超市水果蔬菜生鲜棕色牛肉高档托盘经典小号托盘
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 白色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.17">0.17</td>
+ 
+   <td class="num" title="2">
+   2
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="4" sumrows="4">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=eason1994525152&amp;sign=30b8ea756ad96291b2dd9fd7a975a33a" target="_blank">eason1994525152</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="eason1994525152" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1403269941474843&amp;out_order_id=b_171618035610&amp;user_type=0">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="eason1994525152" data-display="inline" data-item="$bizOrder.itemID:1403269941474843"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=eason1994525152" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="eason1994525152" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;eason1994525152&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="4" sumrows="4">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1403269941474843" target="_blank">
+       
+  
+  <strong class="J_TradeStatus status closed">交易关闭</strong>
+
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1403269941474843" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="4" sumrows="4">
+     <strong class="J_OrderPrice">46.72</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">45.00</span>) </div>
+ 
+
+ 
+
+
+ 
+    </td>
+     <td class="remark" rowspan="4" sumrows="4">
+     
+   </td>
+   </tr>
+
+         <tr id="item1403269941494843" class="order-item
+     ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1403269941494843">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i4/1980329921/TB2najPfXXXXXXTXpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1403269941494843" title="查看宝贝详情" target="_blank">
+1410正品一次性超市水果蔬菜生鲜棕色牛肉高档托盘经典小号托盘
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 黑色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.17">0.17</td>
+ 
+   <td class="num" title="2">
+   2
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+     </tr>
+
+         <tr id="item1403269941504843" class="order-item
+     ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1403269941504843">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i4/1980329921/TB26YqTeFXXXXb1XpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1403269941504843" title="查看宝贝详情" target="_blank">
+一次性托盘生鲜托盘长方形牛肉托盘猪肉托盘PP环保托盘耐高温托盘
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 黑色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.28">0.28</td>
+ 
+   <td class="num" title="2">
+   2
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+     </tr>
+
+         <tr id="item1403269941514843" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1403269941514843">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i2/1980329921/TB2nRLEfXXXXXc5XpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1403269941514843" title="查看宝贝详情" target="_blank">
+1912一次性生鲜托盘超市蔬菜水果托盘一次性塑料托盘包装盒外卖托
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 白色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.24">0.24</td>
+ 
+   <td class="num" title="2">
+   2
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+     </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+         
+             
+   <tbody id="order1268652717123890" class="order closed-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1268652717123890" name="biz_order_id" value="1268652717123890">
+<input type="hidden" id="payOrderId_1268652717123890" name="payOrderId_1268652717123890" value="1268652717123890">
+<input type="hidden" id="tradeStatus_1268652717123890" name="tradeStatus_1268652717123890" value="CREATE_CLOSED_OF_TAOBAO">
+<input type="hidden" id="inRefundStatus_1268652717123890" name="inRefundStatus_1268652717123890" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1268652717123890">
+   订单编号：1268652717123890
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-11-12 16:17</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1268652717123890" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1268652717123890&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="2010409038">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1268652717123890" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1268652717123890">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i1/1980329921/TB2h8TGeFXXXXbpXpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1268652717123890" title="查看宝贝详情" target="_blank">
+一次性快餐盒外卖打包盒咖喱饭盒炒面拉面盒意大利面盒新品耐热
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 褐色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="1.12">1.12</td>
+ 
+   <td class="num" title="50">
+   50
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="1" sumrows="1">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=大成子1997&amp;sign=d333311f15fb59a1347bf970487ae8d1" target="_blank">大成子1997</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="大成子1997" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1268652717123890&amp;out_order_id=b_152019031961&amp;user_type=0">
+<img alt="" src="//assets.alicdn.com/sys/common/icon/trade/new_msg.gif">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="大成子1997" data-display="inline" data-item="$bizOrder.itemID:1268652717123890"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=大成子1997" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="大成子1997" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;大成子1997&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="1" sumrows="1">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1268652717123890" target="_blank">
+       
+  
+  <strong class="J_TradeStatus status closed">交易关闭</strong>
+
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1268652717123890" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="1" sumrows="1">
+     <strong class="J_OrderPrice">311.00</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">255.00</span>) </div>
+ 
+
+ 
+
+
+ <a title="该订单来自您的手机淘宝店铺" href="http://www.taobao.com/go/act/integrated/maijia-index.php?sprefer=symj27" target="_blank">
+<img src="//img.alicdn.com/tps/i1/T1xRBqXdNAXXXXXXXX-46-16.png">
+</a>
+
+    </td>
+     <td class="remark" rowspan="1" sumrows="1">
+     
+   </td>
+   </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+         
+             
+   <tbody id="order1384408893015747" class="order closed-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1384408893015747" name="biz_order_id" value="1384408893015747">
+<input type="hidden" id="payOrderId_1384408893015747" name="payOrderId_1384408893015747" value="1384408893015747">
+<input type="hidden" id="tradeStatus_1384408893015747" name="tradeStatus_1384408893015747" value="CREATE_CLOSED_OF_TAOBAO">
+<input type="hidden" id="inRefundStatus_1384408893015747" name="inRefundStatus_1384408893015747" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1384408893015747">
+   订单编号：1384408893015747
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-11-09 10:29</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1384408893015747" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1384408893015747&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="61344757">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1384408893015747" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1384408893015747">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i1/1980329921/TB2wwTRfXXXXXXBXpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1384408893015747" title="查看宝贝详情" target="_blank">
+透明1910一次性生鲜托盘超市蔬菜水果托盘一次性塑料托盘包装盒
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 白</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.23">0.23</td>
+ 
+   <td class="num" title="1">
+   1
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="1" sumrows="1">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=hingisviv&amp;sign=ab9b9d050d88ac2ef647f5bb6456ed72" target="_blank">hingisviv</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="hingisviv" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1384408893015747&amp;out_order_id=b_166296696285&amp;user_type=0">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="hingisviv" data-display="inline" data-item="$bizOrder.itemID:1384408893015747"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=hingisviv" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="hingisviv" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;hingisviv&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="1" sumrows="1">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1384408893015747" target="_blank">
+       
+  
+  <strong class="J_TradeStatus status closed">交易关闭</strong>
+
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1384408893015747" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="1" sumrows="1">
+     <strong class="J_OrderPrice">580.00</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">579.77</span>) </div>
+ 
+
+ 
+
+
+ <a title="该订单来自您的手机淘宝店铺" href="http://www.taobao.com/go/act/integrated/maijia-index.php?sprefer=symj27" target="_blank">
+<img src="//img.alicdn.com/tps/i1/T1xRBqXdNAXXXXXXXX-46-16.png">
+</a>
+
+    </td>
+     <td class="remark" rowspan="1" sumrows="1">
+     
+   </td>
+   </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+         
+             
+   <tbody id="order1384412091295747" class="order closed-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1384412091295747" name="biz_order_id" value="1384412091295747">
+<input type="hidden" id="payOrderId_1384412091295747" name="payOrderId_1384412091295747" value="1384412091295747">
+<input type="hidden" id="tradeStatus_1384412091295747" name="tradeStatus_1384412091295747" value="CREATE_CLOSED_OF_TAOBAO">
+<input type="hidden" id="inRefundStatus_1384412091295747" name="inRefundStatus_1384412091295747" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1384412091295747">
+   订单编号：1384412091295747
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-11-09 10:28</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1384412091295747" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1384412091295747&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="61344757">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1384412091295747" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1384412091295747">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i4/1980329921/TB2KOWUeFXXXXbVXpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1384412091295747" title="查看宝贝详情" target="_blank">
+一次性生鲜食品托盘超市牛肉打包碟长方形塑料盒高档生鲜熟食托盘
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 黑色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.59">0.59</td>
+ 
+   <td class="num" title="1">
+   1
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="1" sumrows="1">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=hingisviv&amp;sign=ab9b9d050d88ac2ef647f5bb6456ed72" target="_blank">hingisviv</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="hingisviv" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1384412091295747&amp;out_order_id=b_166111978458&amp;user_type=0">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="hingisviv" data-display="inline" data-item="$bizOrder.itemID:1384412091295747"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=hingisviv" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="hingisviv" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;hingisviv&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="1" sumrows="1">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1384412091295747" target="_blank">
+       
+  
+  <strong class="J_TradeStatus status closed">交易关闭</strong>
+
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1384412091295747" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="1" sumrows="1">
+     <strong class="J_OrderPrice">1440.00</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">1439.41</span>) </div>
+ 
+
+ 
+
+
+ <a title="该订单来自您的手机淘宝店铺" href="http://www.taobao.com/go/act/integrated/maijia-index.php?sprefer=symj27" target="_blank">
+<img src="//img.alicdn.com/tps/i1/T1xRBqXdNAXXXXXXXX-46-16.png">
+</a>
+
+    </td>
+     <td class="remark" rowspan="1" sumrows="1">
+     
+   </td>
+   </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+         
+             
+   <tbody id="order1385074965505747" class="order closed-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1385074965505747" name="biz_order_id" value="1385074965505747">
+<input type="hidden" id="payOrderId_1385074965505747" name="payOrderId_1385074965505747" value="1385074965505747">
+<input type="hidden" id="tradeStatus_1385074965505747" name="tradeStatus_1385074965505747" value="CREATE_CLOSED_OF_TAOBAO">
+<input type="hidden" id="inRefundStatus_1385074965505747" name="inRefundStatus_1385074965505747" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1385074965505747">
+   订单编号：1385074965505747
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-11-09 10:27</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1385074965505747" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1385074965505747&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="61344757">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1385074965505747" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1385074965505747">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i2/1980329921/TB2tZTKfXXXXXbZXpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1385074965505747" title="查看宝贝详情" target="_blank">
+一次性生鲜食品托盘长方形加长一次性鱼类托盘塑料生鲜托盘3013
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 花色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.73">0.73</td>
+ 
+   <td class="num" title="1">
+   1
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="1" sumrows="1">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=hingisviv&amp;sign=ab9b9d050d88ac2ef647f5bb6456ed72" target="_blank">hingisviv</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="hingisviv" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1385074965505747&amp;out_order_id=b_166297480059&amp;user_type=0">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="hingisviv" data-display="inline" data-item="$bizOrder.itemID:1385074965505747"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=hingisviv" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="hingisviv" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;hingisviv&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="1" sumrows="1">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1385074965505747" target="_blank">
+       
+  
+  <strong class="J_TradeStatus status closed">交易关闭</strong>
+
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1385074965505747" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="1" sumrows="1">
+     <strong class="J_OrderPrice">588.00</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">587.27</span>) </div>
+ 
+
+ 
+
+
+ <a title="该订单来自您的手机淘宝店铺" href="http://www.taobao.com/go/act/integrated/maijia-index.php?sprefer=symj27" target="_blank">
+<img src="//img.alicdn.com/tps/i1/T1xRBqXdNAXXXXXXXX-46-16.png">
+</a>
+
+    </td>
+     <td class="remark" rowspan="1" sumrows="1">
+     
+   </td>
+   </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+         
+             
+   <tbody id="order1224064229030767" class="order closed-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1224064229030767" name="biz_order_id" value="1224064229030767">
+<input type="hidden" id="payOrderId_1224064229030767" name="payOrderId_1224064229030767" value="1224064229030767">
+<input type="hidden" id="tradeStatus_1224064229030767" name="tradeStatus_1224064229030767" value="CREATE_CLOSED_OF_TAOBAO">
+<input type="hidden" id="inRefundStatus_1224064229030767" name="inRefundStatus_1224064229030767" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1224064229030767">
+   订单编号：1224064229030767
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-10-10 20:49</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1224064229030767" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1224064229030767&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="1965816707">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1224064229030767" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1224064229030767">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i1/1980329921/TB2EtD0fXXXXXcqXXXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1224064229030767" title="查看宝贝详情" target="_blank">
+SR2015一次性水果托盘长方塑料蔬菜食品生鲜托盘超市保鲜盒包装盒
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 花色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.48">0.48</td>
+ 
+   <td class="num" title="1">
+   1
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="1" sumrows="1">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=刘延海77&amp;sign=0eba3bda34c33f7f2c0b9b655111bc1c" target="_blank">刘延海77</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="刘延海77" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1224064229030767&amp;out_order_id=b_147407429811&amp;user_type=0">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="刘延海77" data-display="inline" data-item="$bizOrder.itemID:1224064229030767"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=刘延海77" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="刘延海77" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;刘延海77&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="1" sumrows="1">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1224064229030767" target="_blank">
+       
+  
+  <strong class="J_TradeStatus status closed">交易关闭</strong>
+
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1224064229030767" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="1" sumrows="1">
+     <strong class="J_OrderPrice">10.48</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">10.00</span>) </div>
+ 
+
+ 
+
+
+ <a title="该订单来自您的手机淘宝店铺" href="http://www.taobao.com/go/act/integrated/maijia-index.php?sprefer=symj27" target="_blank">
+<img src="//img.alicdn.com/tps/i1/T1xRBqXdNAXXXXXXXX-46-16.png">
+</a>
+
+    </td>
+     <td class="remark" rowspan="1" sumrows="1">
+     
+   </td>
+   </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+         
+             
+   <tbody id="order1200382622893890" class="order success-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1200382622893890" name="biz_order_id" value="1200382622893890">
+<input type="hidden" id="payOrderId_1200382622893890" name="payOrderId_1200382622893890" value="1200382622893890">
+<input type="hidden" id="tradeStatus_1200382622893890" name="tradeStatus_1200382622893890" value="TRADE_FINISHED">
+<input type="hidden" id="inRefundStatus_1200382622893890" name="inRefundStatus_1200382622893890" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1200382622893890">
+   订单编号：1200382622893890
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-09-22 12:52</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1200382622893890" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1200382622893890&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="2010409038">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1200382622893890" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1200382622893890">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i2/1980329921/TB2DgjKeFXXXXaAXpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1200382622893890" title="查看宝贝详情" target="_blank">
+一次性快餐盒外卖打包盒咖喱饭盒炒面拉面盒意大利面盒新品耐热
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 白色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="1.12">1.12</td>
+ 
+   <td class="num" title="400">
+   400
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="1" sumrows="1">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=大成子1997&amp;sign=d333311f15fb59a1347bf970487ae8d1" target="_blank">大成子1997</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="大成子1997" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1200382622893890&amp;out_order_id=b_145221653132&amp;user_type=0">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="大成子1997" data-display="inline" data-item="$bizOrder.itemID:1200382622893890"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=大成子1997" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="大成子1997" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;大成子1997&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="1" sumrows="1">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1200382622893890" target="_blank">
+       
+  
+<strong class="J_TradeStatus status success">
+交易成功</strong>
+  
+  
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1200382622893890" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="1" sumrows="1">
+     <strong class="J_OrderPrice">540.00</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">92.00</span>) </div>
+ 
+
+ 
+<div>
+<a title="查看物流" href="//wuliu.taobao.com/user/order_detail_new.htm?trade_id=1200382622893890&amp;seller_id=1980329921" class="view-logistics" target="_blank">查看物流</a>
+</div>
+
+
+ <a title="该订单来自您的手机淘宝店铺" href="http://www.taobao.com/go/act/integrated/maijia-index.php?sprefer=symj27" target="_blank">
+<img src="//img.alicdn.com/tps/i1/T1xRBqXdNAXXXXXXXX-46-16.png">
+</a>
+
+    </td>
+     <td class="remark" rowspan="1" sumrows="1">
+       
+   
+ 
+   </td>
+   </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+         
+             
+   <tbody id="order1281079868076521" class="order success-order">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr class="order-hd">
+   <td colspan="9">
+ <input class="selector" type="checkbox" id="cb1281079868076521" name="biz_order_id" value="1281079868076521">
+<input type="hidden" id="payOrderId_1281079868076521" name="payOrderId_1281079868076521" value="1281079868076521">
+<input type="hidden" id="tradeStatus_1281079868076521" name="tradeStatus_1281079868076521" value="TRADE_FINISHED">
+<input type="hidden" id="inRefundStatus_1281079868076521" name="inRefundStatus_1281079868076521" value="false">
+<div class="basic-info">
+<span class="order-num">
+ <label for="cb1281079868076521">
+   订单编号：1281079868076521
+ </label>
+ </span>
+<span class="deal-time">成交时间：2015-09-14 21:41</span>
+
+     </div>
+<div class="more-info"> 
+  <a class="J_MemoFlag memo-flag" data-orderid="1281079868076521" target="_blank" href="//trade.taobao.com/trade/memo/update_sell_memo.htm?seller_id=1980329921&amp;biz_order_id=1281079868076521&amp;user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status=&amp;logistics_service=" title="">
+ <img alt="" src="//assets.alicdn.com/sys/common/icon/trade/op_memo_0.png">
+ </a>
+  </div>
+
+<input type="hidden" name="sellerId" value="1980329921">
+<input type="hidden" name="buyerId" value="180332165">
+ </td>  </tr>
+
+   
+ 
+ <!--start 子订单list start-->
+     <tr id="item1281079868086521" class="order-item
+     ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1281079868086521">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i4/1980329921/TB22pz6fXXXXXaTXXXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1281079868086521" title="查看宝贝详情" target="_blank">
+一次性生鲜食品托盘长方形加长一次性鱼类托盘塑料生鲜托盘3013
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 白色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.52">0.52</td>
+ 
+   <td class="num" title="20">
+   20
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+         <td class="contact" rowspan="2" sumrows="2">
+ 
+
+
+<a class="nickname" href="//member1.taobao.com/member/user_profile.jhtml?userID=xuemeilele&amp;sign=ef60253d6a0b6f02a92a4afdf402756f" target="_blank">xuemeilele</a>&nbsp;
+<a title="查询该买家订单" class="J_filterTrigger" data-nick="xuemeilele" target="_blank" href="javascript:void(0);">
+ <img src="//gtd.alicdn.com/tps/i8/T1KNtuXc4rXXXXXXXX-12-12.png" alt="查询该买家订单" class="J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.2">
+ </a>
+<span class="name J_UserInfo" data="//trade.taobao.com/trade/json/user_info.htm?biz_order_id=1281079868076521&amp;out_order_id=b_156020627232&amp;user_type=0">
+----
+</span>
+
+
+   <span class="ww-light ww-large" data-nick="xuemeilele" data-display="inline" data-item="$bizOrder.itemID:1281079868076521"><a href="https://amos.alicdn.com/getcid.aw?v=3&amp;site=cntaobao&amp;groupid=0&amp;s=1&amp;fromid=cntaobao圭之革兮&amp;uid=xuemeilele" target="_blank" class="ww-inline ww-offline"><span>旺旺离线</span></a></span>
+  <span data-aling="trademanager0625" data-nick="xuemeilele" data-telnumber=""><a href="aliim:invokeprotocol?action=alingCallout&amp;param={&quot;calloutNick&quot;:&quot;xuemeilele&quot;,&quot;calloutNumber&quot;:&quot;&quot;,&quot;source&quot;:&quot;trademanager0625&quot;}"><img src="//img.alicdn.com/tps/i3/TB1ZHxcHXXXXXcWXFXXKS1EFpXX-21-20.png" title="一键免拨号轻松与买家电话沟通~ 如无法拨打，请安装千牛3.0" data-aling-icon="icon" style="cursor: pointer; border: none;"></a></span>
+      
+
+  </td>  <td class="trade-status" rowspan="2" sumrows="2">
+ 
+   
+
+
+
+
+
+<a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1281079868076521" target="_blank">
+       
+  
+<strong class="J_TradeStatus status success">
+交易成功</strong>
+  
+  
+
+
+
+
+
+</a>
+
+
+
+
+ <a href="//trade.taobao.com/trade/detail/trade_item_detail.htm?bizOrderId=1281079868076521" class="detail-link" target="_blank" style="display:inline">详情</a>
+ 
+ 
+<div class="trade-actions">
+
+
+
+    
+ </div>
+
+
+
+
+
+
+
+
+    </td>
+
+ <td class="order-price" rowspan="2" sumrows="2">
+     <strong class="J_OrderPrice">25.80</strong>
+
+<div class="post-info">
+(含<span class="post-type">快递</span>:<span class="J_PostFee">12.00</span>) </div>
+ 
+
+ 
+<div>
+<a title="查看物流" href="//wuliu.taobao.com/user/order_detail_new.htm?trade_id=1281079868076521&amp;seller_id=1980329921" class="view-logistics" target="_blank">查看物流</a>
+</div>
+
+
+ <a title="该订单来自您的手机淘宝店铺" href="http://www.taobao.com/go/act/integrated/maijia-index.php?sprefer=symj27" target="_blank">
+<img src="//img.alicdn.com/tps/i1/T1xRBqXdNAXXXXXXXX-46-16.png">
+</a>
+
+    </td>
+     <td class="remark" rowspan="2" sumrows="2">
+         <div class="remark-status">
+   <a href="//rate.taobao.com/RateDetailSeller.htm?parentTradeId=1281079868076521" target="_blank">
+ 双方已评
+ </a>
+   </div>
+ 
+   
+ 
+   </td>
+   </tr>
+
+         <tr id="item1281079868096521" class="order-item
+       last
+ ">
+ <td colspan="2" class="item">
+   <div class="pic-info">
+<div class="pic s50">
+    <a hidefocus="true" target="_blank" title="查看宝贝详情" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1281079868096521">
+<img alt="查看宝贝详情" src="//img.alicdn.com/bao/uploaded/i2/1980329921/TB2OGHQfXXXXXXOXpXXXXXXXXXX_!!1980329921.jpg_sum.jpg">
+</a>
+</div>
+ </div> <div class="txt-info">
+     <div class="desc">
+   <a hidefocus="true" href="//trade.taobao.com/trade/detail/trade_snap.htm?tradeID=1281079868096521" title="查看宝贝详情" target="_blank">
+1410正品一次性超市水果蔬菜生鲜棕色牛肉高档托盘经典小号托盘
+</a>
+ 
+<br>
+
+      <a title="" href="http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&amp;am_id=130011831021c2f3caab&amp;cm_id=&amp;pm_id=" target="_blank" style="vertical-align: middle;">
+ <img src="//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png">
+ 
+ </a>
+   
+        </div>
+<div class="props">
+<span>颜色分类: 白色</span>
+
+</div>
+
+  
+</div>
+  </td>  
+   <td class="price" title="0.17">0.17</td>
+ 
+   <td class="num" title="20">
+   20
+     </td>
+   <td class="trouble">
+       
+
+      <br>
+
+
+
+
+  
+   </td>
+ 
+     </tr>
+
+       <!--end 子订单list end-->
+ </tbody>
+     <!--end 订单块list end -->
+
+ <!--begin 页脚批量操作和列表翻页 begin-->
+ <tbody class="act">
+ <tr class="sep-row"><td colspan="9"></td></tr>
+ <tr>
+ <td colspan="9">
+       <div class="operations">
+
+<input class="all-selector" type="checkbox">
+<label>全选</label>
+<a id="plfh" class="operation-btn J_MakePoint" href="#" data-point-url="//gm.mmstat.com/listsold.1.3">批量发货</a>
+<a id="plbz" class="operation-btn J_MakePoint" href="#" data-point-url="//gm.mmstat.com/listsold.1.5">批量标记</a>
+<a href="//trade.taobao.com/trade/free_post_fee.htm" class="operation-btn J_BatchFreeShipping J_MakePoint" data-point-url="//gm.mmstat.com/listsold.1.4">批量免运费</a>
+<script type="text/javascript">
+var tbEvent = YAHOO.util.Event;
+YAHOO.util.Event.on(document.getElementById('plfh'),'click',docheckAction);
+YAHOO.util.Event.on(document.getElementById('plbz'),'click',doMemoAction);
+YAHOO.util.Event.on(document.getElementById('plfh1'),'click',docheckAction);
+YAHOO.util.Event.on(document.getElementById('plbz1'),'click',doMemoAction);
+function doMemoAction(ev){
+ var Checked = 0;
+ var i;
+ for(i=1;i<document.getElementById('memoListForm').getElementsByTagName('INPUT').length;i++){
+ var e = document.getElementById('memoListForm').getElementsByTagName('INPUT')[i];
+ if(e.type=='checkbox' && e.disabled == false && e.className == 'selector' && e.checked == true ){ 
+ Checked=Checked+1;
+ }
+ }
+ if(Checked > 0){
+
+ document.getElementById("memoListForm").action="//trade.taobao.com/trade/memo/update_sell_memo.htm?user_type=1&amp;page_num=null&amp;auction_title=&amp;biz_order_time_begin=&amp;biz_order_time_end=&amp;comment_status=&amp;buyer_nick=&amp;auction_status="
+document.getElementById("memoListForm").target="_blank";
+document.getElementById("memoListForm").submit() ;
+}else{
+ alert("请选择订单,可以选择多个");
+ return false;
+}
+tbEvent.stopEvent(ev);
+}
+function docheckAction(ev){
+ var str ='WAIT_SELLER_SEND_GOODS';
+ var Checked = 0;
+ var i;
+ var urla="";
+var tradestatus="tradeStatus_";
+var inRefundStatus="inRefundStatus_";
+var status=0;
+var inRefund="false";
+ for(i=1;i<document.getElementById('memoListForm').getElementsByTagName('INPUT').length;i++){
+ var e = document.getElementById('memoListForm').getElementsByTagName('INPUT')[i];
+ if(e.type=='checkbox' && e.checked == true){
+ var ur=tradestatus+e.value;
+ if (document.getElementById(ur)){
+ Checked=Checked+1;
+if(e.getAttribute('data-tgtype')=='1'){ //data-tgtype:团购类型：1聚划算
+ status=3;
+ break;
+ }
+ if(e.getAttribute('data-tgtype')=='2'){ //data-tgtype:2 其他没有物流单的商品
+ status=4;
+ break;
+ }
+ if(document.getElementById(ur).value!=str){
+//对于cod订单给出更精确提示 added by yuanchao 2009.3.22
+if(document.getElementById(ur).value=="COD_WAIT_SELLER_SEND_GOODS"){
+status=2;
+}else {
+ status=1;
+}
+ break;
+ }
+ }
+ur=inRefundStatus+e.value;
+if (document.getElementById(ur)){
+ if (document.getElementById(ur).value=="true" && inRefund != "true"){
+ inRefund="true";
+ }
+ }
+ }
+
+ }
+if(Checked > 0 && status==0){
+ if(inRefund=="true"){
+ if(!confirm("订单中的部分宝贝，买家已经提交退款申请，进行发货操作将撤销此退款，是否继续？")){
+return;
+}
+ }
+ document.getElementById("memoListForm").action="/trade/wuliuListScreen.htm"
+ document.getElementById("memoListForm").target="_blank";
+ document.getElementById("memoListForm").submit() ;
+}else if(Checked > 0 && (status==1 || status==2 || status==3 || status==4)){
+if(status==1){
+ alert('请选择"买家已付款"状态，需要卖家发货的交易');
+}else if(status==2){
+alert('货到付款交易不支持批量发货');
+}else if(status==3){
+alert('聚划算订金订单无法发货');
+}else if(status==4){
+ alert('您选择的订单不支持批量发货');
+}
+ return false;
+}else{
+ alert("请选择订单,可以选择多个");
+ return false;
+}
+tbEvent.stopEvent(ev);
+}
+</script>
+  <input type="hidden" id="J_page_durex" data-durex="{&quot;durexUrl&quot;: &quot;//aq.taobao.com/durex/validate&quot;, &quot;authUrl&quot;: &quot;/trade/security/auth_user_info.htm&quot;}" data-durex-urlparam="{&quot;redirecturl&quot;: &quot;//trade.taobao.com/trade/itemlist/mid/durex.htm&quot;}">
+
+<ul class="page-nav inline-block">
+<li class="prev-page">
+</li>
+                          <li class="curr-page"><a href="javascript:void(0)" class="selected" onclick="durexCheck(function(){changePage('1')}, '#J_page_durex')">1</a></li>
+       
+
+
+</ul>
+</div>
+    </td>
+ </tr>
+ </tbody>
+ <!--end 页脚批量操作和列表翻页 end-->
+   </table>
+
+ 
+
+  <script src="//assets.alicdn.com/app/mytaobao/common.js?t=20090219.js"></script>
+ <script>
+ YAHOO.util.Event.onContentReady('J_ListTable', function() {
+ TB.app.Trade.PageInit('list-sold-items');
+ });
+ YAHOO.util.Event.onDOMReady(function(){
+ TB.app.Trade.BatchFreeShipping.init();
+ });
+ </script>
+ <script>
+ KISSY.config({
+ packages:[{
+ name:"widget",
+ path:"//g.alicdn.com/tb/trademanager/3.0.0/2014",
+ charset:"utf-8"
+ }]
+ });
+ </script>
+ <script src="//g.alicdn.com/tb/trademanager/3.0.0/2014/pages/sold/page/init-min.js"></script>
+ <script>
+ KISSY.use('page/init');
+
+ KISSY.use('node', function(S, Node){
+ var $ = Node.all;
+
+ var curDomain = document.domain;
+ $('.J_DialogTrigger_paimai').on('click', function(){
+ document.domain=location.hostname.split('.').slice(-2).join('.');
+ });
+ window.iframePaimaiCallback = function (signal){
+ if(signal==='close') {
+ TB.app.Trade.DialogMgr.hideDialog();
+ document.domain = curDomain;
+ }
+
+ if(signal==='reload'){
+ window.location.reload();
+ }
+ }
+ });
+ </script>
+ </div>
+ 
